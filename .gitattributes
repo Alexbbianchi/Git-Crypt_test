@@ -1,2 +1,2 @@
 key.txt filter=git-crypt diff=git-crypt
-alex/ filter=git-crypt diff=git-crypt
+alex* filter=git-crypt diff=git-crypt
